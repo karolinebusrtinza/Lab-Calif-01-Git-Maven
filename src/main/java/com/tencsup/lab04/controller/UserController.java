@@ -25,6 +25,7 @@ public class UserController {
 		System.out.println("Nombre del usuario: "+x.nombre);
 		System.out.println("Apellidos del usuario: "+x.apellidos);
 		System.out.println("Edad del usuario: "+x.edad);
+	
 		
 	}
 }
