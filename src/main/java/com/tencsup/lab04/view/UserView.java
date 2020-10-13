@@ -1,5 +1,5 @@
 package com.tencsup.lab04.view;
 
-public class MyString {
+public class UserView {
 
 }
